@@ -1,15 +1,8 @@
-# REA app
-Web app criado para a disciplina de Organização e Arquitetura de computadores, para se tornar um recurso educacional aberto e ser utilizado pelos próximos alunos da disciplina.
+# OrgArtes
+Web app criado para a disciplina de Organização e Arquitetura de computadores.
 
 ## Como rodar
-Para rodar o aplicativo WEB, basta executar os seguintes comandos:
-
-```console
-$ git clone https://github.com/alexandregjr/rea-app
-$ cd rea-app
-```
-
-Para que o repositório seja clonado para o computador e garantir que você está na pasta do repositório.
+Abra a pasta do aplicativo no terminal e rode os seguintes comandos:
 
 ```console
 # apt-get install npm
@@ -17,11 +10,13 @@ $ npm install create-react-app
 $ npm start
 ```
 
-Para instalar o 'npm' e instalar todos os módulos necessários para rodar um aplicativo ReactJS.
-E então para rodar o aplicativo.
-
 Quando o aplicativo estiver rodando, basta acessá-lo de seu Browser de preferência, por meio do link "localhost:3000".
 
-## Adicionando e alterando conteúdo
-Para adicionar ou alterar o conteúdo já presente no aplicativo web, basta acessar ao arquivo "contentData.js", e, seguindo a estrutura de um objeto JSON, escrever os dados novos ou então alterar os dados já presentes.
+
+Desenvolvido por:
+
+Ana Clara Amorim Andrade - 10691992
+João Pedro Uchoa Calvalcante - 10801169
+Laura Genari Alves de Jesus - 10801180
+Leandro Satoshi de Siqueira - 10893103 
 
